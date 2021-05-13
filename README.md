@@ -8,6 +8,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z3rgy&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3rgy&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align='center'>🔨 Stack 🔧</h3>
 <p align='center'>Techs that I've used at least once</p>
 <p align='center'>
