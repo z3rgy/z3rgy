@@ -1,7 +1,7 @@
 
 <div align = center>
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&&height=250&text=Sang%20Woo%20Kim&fontColor=4F3E3B&fontAlignY=40&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=250&text=Sang%20Woo%20Kim&fontColor=4F3E3B&fontAlignY=40&fontSize=90)
 
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fz3rgy)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/z3rgy?label=Follow)
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=footer&fontSize=90)
 
 </div>
 <!--
