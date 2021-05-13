@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fz3rgy)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/z3rgy?label=Follow)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z3rgy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z3rgy&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :cyclone: Languages
 ![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white) 
