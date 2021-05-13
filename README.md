@@ -1,10 +1,9 @@
 ### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fz3rgy)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/z3rgy?label=Follow)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z3rgy)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fz3rgy%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
+
 <!--
 **z3rgy/z3rgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
