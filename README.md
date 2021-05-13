@@ -3,6 +3,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z3rgy)](https://github.com/anuraghazra/github-readme-stats)
 
+### :cyclone: Languages
+![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white) 
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=PYTHON&logoColor=white) 
 
 <!--
 **z3rgy/z3rgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
