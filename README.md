@@ -1,8 +1,4 @@
 
-<div align = center>
-  
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=250&text=Sang%20Woo%20Kim&fontColor=4F3E3B&fontAlignY=40&fontSize=90)
-
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z3rgy&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
